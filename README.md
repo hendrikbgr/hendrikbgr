@@ -1,4 +1,4 @@
-# Hendrik Bagger
+# Hendrik B
 **Full-Stack Web Developer & Automation Architect**  
 📍 Málaga, Spain | 🌐 [hendrikbagger.com](https://hendrikbagger.com)
 
